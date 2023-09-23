@@ -4,8 +4,14 @@
  Role Assigning and Role calling:
  ![image](https://github.com/paneerselvam007/Select-menu-and-role-assigning-discord-bot/assets/58689270/779dbbbd-1f85-4c14-b96b-5f4ad97d472a)
 
+ 
+ 
  Select Menu:
  ![image](https://github.com/paneerselvam007/Select-menu-and-role-assigning-discord-bot/assets/58689270/2f7c27e1-9cc5-4de7-959f-66ad017ed58d)
+
+
+
+
 
 
 Steps to host the bot using visual-studio:
